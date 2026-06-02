@@ -1,0 +1,4 @@
+# ninja log v7
+0	26216	1780318973006483266	/home/zhaohongyang/TR-SPMM/TR-source/SpMM/build/temp.linux-x86_64-cpython-39/mGCN_online.o	c0bba03caae3b8c4
+0	64399	1780318973006483266	/home/zhaohongyang/TR-SPMM/TR-source/SpMM/build/temp.linux-x86_64-cpython-39/mGCNkernel_online.o	9be9ce76a8b1d887
+13	67905	1780372562851827410	/home/zhaohongyang/TR-SPMM/TR-source/SpMM/build/temp.linux-x86_64-cpython-39/mGCNkernel_online.o	9be9ce76a8b1d887
